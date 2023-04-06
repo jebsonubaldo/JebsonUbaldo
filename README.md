@@ -33,8 +33,7 @@ Here are some ideas to get you started:
     Hi there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>
   </h1>
-  <h2>I'm Jebson Orenia Ubaldo</h2>
-  <p>I am a developer specializing in building web systems and applications based in Philippines. Currently, I am doing freelance projects. I took up Bachelor of Science in Information Technology in Pangasinan State University - Urdaneta Campus, Philippines.</p>
+  <p>I'm Jebson Orenia Ubaldo. I am a developer specializing in building web systems and applications based in Philippines. Currently, I am doing freelance projects. I took up Bachelor of Science in Information Technology in Pangasinan State University - Urdaneta Campus, Philippines.</p>
 </div>
 
 <!-- <div align="center">
