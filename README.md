@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### Socials: 
-<a href="https://m.youtube.com/carlcastanas"><img src="https://img.shields.io/badge/carlcastanas-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://instagram.com/carlcastanas"><img src="https://img.shields.io/badge/carlcastanas-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://www.linkedin.com/in/carlcastanas/"><img src="https://img.shields.io/badge/carlcastanas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="https://www.facebook.com/carlcastanas/"><img src="https://img.shields.io/badge/carlcastanas-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a><br>
+<a href="https://www.linkedin.com/in/jebsonubaldo/"><img src="https://img.shields.io/badge/jebsonubaldo-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://web.facebook.com/jebsonoreniaubaldo/"><img src="https://img.shields.io/badge/jebsonubaldo-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.instagram.com/jebson_ubaldo/"><img src="https://img.shields.io/badge/jebsonubaldo-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> <br>
 ### How to reach me: 
 <a href="mailto: ubaldojebson@gmail.com">
-<img src="https://img.shields.io/badge/-ubaldojebsongmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
+<img src="https://img.shields.io/badge/-ubaldojebsons%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
