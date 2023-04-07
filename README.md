@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/jebson_ubaldo/"><img src="https://img.shields.io/badge/jebsonubaldo-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> <br>
 ### How to reach me: 
 <a href="mailto: ubaldojebson@gmail.com">
-<img src="https://img.shields.io/badge/-ubaldojebsons%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
+<img src="https://img.shields.io/badge/-ubaldojebson%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
