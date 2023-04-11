@@ -31,3 +31,8 @@ Here are some ideas to get you started:
 
 ### Profile Visits:
 ![Visitor Count](https://profile-counter.glitch.me/{jebsonubaldo}/count.svg)
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jebsonubaldo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jebsonubaldo&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jebsonubaldo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
