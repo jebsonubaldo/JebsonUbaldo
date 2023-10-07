@@ -1,7 +1,7 @@
 <!-- Hi there 👋 -->
 <!-- <h2>Hello {user}, I'm <a href="https://github.com/jebsonubaldo">Jebson</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2> -->
 
-<!--**JebsonUbaldo/JebsonUbaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JebsonUbaldo/JebsonUbaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ... 
 
 
 [![@jebsonubaldo](https://raw.githubusercontent.com/jebsonubaldo/jebsonubaldo/main/banner.png)](https://web.facebook.com/jebsonoreniaubaldo/)
