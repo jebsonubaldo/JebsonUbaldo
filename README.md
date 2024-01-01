@@ -1,18 +1,5 @@
 <!-- Hi there 👋 -->
 <!--<h2>Hello {user}, I'm <a href="https://github.com/jebsonubaldo">Jebson</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>-->
-<!--**JebsonUbaldo/JebsonUbaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
 
 [![@jebsonubaldo](https://raw.githubusercontent.com/jebsonubaldo/jebsonubaldo/main/banner.png)](https://web.facebook.com/jebsonoreniaubaldo/)
 
@@ -33,8 +20,3 @@ Here are some ideas to get you started:
 
 ### GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jebsonubaldo&theme=midnight-purple&hide_border=false)
-<!--![](https://github-readme-stats.vercel.app/api?username=jebsonubaldo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-<!--![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adityaseth777&&show_icons=true&theme=tokyonight)<br/> -->
-<!--![](https://github-readme-streak-stats.herokuapp.com/?user=jebsonubaldo&theme=tokyonight&hide_border=false)<br/> -->
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jebsonubaldo&hide_progress=true&theme=tokyonight) -->
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=jebsonubaldo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
