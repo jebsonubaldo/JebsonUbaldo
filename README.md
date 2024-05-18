@@ -5,6 +5,7 @@
 ### Socials: 
 <a href="https://www.linkedin.com/in/jebsonubaldo/"><img src="https://img.shields.io/badge/jebsonubaldo-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="https://web.facebook.com/jebsonoreniaubaldo/"><img src="https://img.shields.io/badge/jebsonubaldo-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://web.facebook.com/jebsonoreniaubaldo/"><img src="https://img.shields.io/badge/jebsonubaldo-1877F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://www.instagram.com/jebson_ubaldo/"><img src="https://img.shields.io/badge/jebsonubaldo-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> <br>
 
 ### How to reach me: 
