@@ -1,6 +1,6 @@
-<h2>Hello {user}, I'm <a href="https://github.com/jebsonubaldo">Jebson</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
-[![@jebsonubaldo](https://raw.githubusercontent.com/jebsonubaldo/jebsonubaldo/main/banner.png)](https://web.facebook.com/jebsonoreniaubaldo/)
+<!--<h2>Hello {user}, I'm <a href="https://github.com/jebsonubaldo">Jebson</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>-->
 
+[![@jebsonubaldo](https://raw.githubusercontent.com/jebsonubaldo/jebsonubaldo/main/banner.png)](https://web.facebook.com/jebsonoreniaubaldo/)
 ### Socials: 
 <a href="https://www.linkedin.com/in/jebsonubaldo/"><img src="https://img.shields.io/badge/jebsonubaldo-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <a href="https://web.facebook.com/jebsonoreniaubaldo/"><img src="https://img.shields.io/badge/jebsonubaldo-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
