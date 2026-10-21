@@ -22,7 +22,7 @@
 - 🔭 Currently building web apps with **Laravel**, **Node.js** and **Tailwind CSS**
 - 🎨 I enjoy blending **clean code** with **thoughtful design**
 - 🌱 Always learning something new — currently exploring **Python** and modern JS tooling
-- 💬 Ask me about **web development**, **UI design**, or **WordPress**
+  <!--- 💬 Ask me about **web development**, **UI design**, or **WordPress**-->
 - 📫 Best way to reach me: **ubaldojebson@gmail.com**
 
 <br/>
