@@ -1,85 +1,21 @@
-<!-- ═══════════════ HEADER ═══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B83EB,100:1572B6&height=200&section=header&text=Jebson%20Ubaldo&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20UI%2FUX%20Enthusiast&descSize=18&descAlignY=58&animation=fadeIn" alt="Header" />
+<!--<h2>Hello {user}, I'm <a href="https://github.com/jebsonubaldo">Jebson</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>-->
 
-<div align="center">
+[![@jebsonubaldo](https://raw.githubusercontent.com/jebsonubaldo/jebsonubaldo/main/banner.png)](https://web.facebook.com/jebsonoreniaubaldo/)
+### Socials: 
+<a href="https://www.linkedin.com/in/jebsonubaldo/"><img src="https://img.shields.io/badge/jebsonubaldo-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://web.facebook.com/jebsonoreniaubaldo/"><img src="https://img.shields.io/badge/jebsonubaldo-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://discordapp.com/users/jebsonubaldo"><img src="https://img.shields.io/badge/jebsonubaldo-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://www.instagram.com/jebson_ubaldo/"><img src="https://img.shields.io/badge/jebsonubaldo-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> <br>
 
-<a href="https://github.com/jebsonubaldo">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7B83EB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jebson!+%F0%9F%91%8B;Full-Stack+Web+Developer;Laravel+%7C+Node.js+%7C+Tailwind+CSS;I+turn+ideas+into+clean+interfaces" alt="Typing SVG" />
-</a>
+### How to reach me: 
+<a href="mailto: ubaldojebson@gmail.com">
+<img src="https://img.shields.io/badge/-ubaldojebson%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
 
-<br/>
+### Languages & Tools I work upon:
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/tailwind%20css%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/node.js%20-%23008CC1.svg?&style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-47A248?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/mongodb%20-%2347A248svg?&style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/Python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/> <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> <img src="https://img.shields.io/badge/Wordpress-%230077B5.svg?style=for-the-badge&logo=Wordpress&logoColor=white"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white">
 
-<img src="https://komarev.com/ghpvc/?username=jebsonubaldo&label=Profile%20Views&color=7B83EB&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/jebsonubaldo?label=Followers&style=for-the-badge&logo=github&color=181717" alt="Followers" />
+### Profile Visits:
+![Visitor Count](https://profile-counter.glitch.me/{jebsonubaldo}/count.svg)
 
-</div>
-
-<br/>
-
-<!-- ═══════════════ ABOUT ═══════════════ -->
-## 👨‍💻 About Me
-
-- 🔭 Currently building web apps with **Laravel**, **Node.js** and **Tailwind CSS**
-- 🎨 I enjoy blending **clean code** with **thoughtful design**
-- 🌱 Always learning something new — currently exploring **Python** and modern JS tooling
-- 💬 Ask me about **web development**, **UI design**, or **WordPress**
-- 📫 Best way to reach me: **ubaldojebson@gmail.com**
-
-<br/>
-
-<!-- ═══════════════ TECH STACK ═══════════════ -->
-## 🛠️ Languages & Tools
-
-**Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" alt="Frontend" />
-</p>
-
-**Backend & Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,py,mongodb,mysql,mariadb,apache" alt="Backend" />
-</p>
-
-**Tools & Workflow**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,vscode,wordpress,figma" alt="Tools" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white" alt="Dribbble" />
-</p>
-
-<br/>
-
-<!-- ═══════════════ GITHUB STATS ═══════════════ -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jebsonubaldo&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jebsonubaldo&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=jebsonubaldo&theme=midnight-purple&hide_border=true" alt="GitHub streak" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════ CONNECT ═══════════════ -->
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/jebsonubaldo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://web.facebook.com/jebsonoreniaubaldo/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://www.instagram.com/jebson_ubaldo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://discordapp.com/users/jebsonubaldo"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="mailto:ubaldojebson@gmail.com"><img src="https://img.shields.io/badge/Email-7B83EB?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" /></a>
-
-</div>
-
-<!-- ═══════════════ FOOTER ═══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1572B6,100:7B83EB&height=120&section=footer" alt="Footer" />
+### GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=jebsonubaldo&theme=midnight-purple&hide_border=false)
