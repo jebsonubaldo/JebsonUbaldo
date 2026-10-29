@@ -15,7 +15,36 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/tailwind%20css%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/node.js%20-%23008CC1.svg?&style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-47A248?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/mongodb%20-%2347A248svg?&style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/Python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/> <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> <img src="https://img.shields.io/badge/Wordpress-%230077B5.svg?style=for-the-badge&logo=Wordpress&logoColor=white"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white">
 
 ### Profile Visits:
-![Visitor Count](https://profile-counter.glitch.me/{jebsonubaldo}/count.svg)
+<!-- Fixed: the old Glitch counter is offline, and the {braces} in the URL were a template placeholder. Replaced with a working counter. -->
+<img src="https://komarev.com/ghpvc/?username=jebsonubaldo&label=Visitors&color=7B83EB&style=for-the-badge" alt="Visitor Count" />
+<img src="https://img.shields.io/github/followers/jebsonubaldo?label=Followers&style=for-the-badge&logo=github&color=181717" alt="Followers" />
 
 ### GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=jebsonubaldo&theme=midnight-purple&hide_border=false)
+<!-- Fixed: the Heroku host is offline, so the streak card now uses streak-stats.demolab.com -->
+<img src="https://streak-stats.demolab.com/?user=jebsonubaldo&theme=midnight-purple&hide_border=false" alt="GitHub Streak" />
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jebsonubaldo&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jebsonubaldo&layout=compact&theme=midnight-purple&langs_count=8" alt="Top Languages" />
+</p>
+
+### Profile Details:
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jebsonubaldo&theme=midnight_purple" alt="Profile Details" />
+
+### Repos Per Language & Most Commit Language:
+<p>
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jebsonubaldo&theme=midnight_purple" alt="Repos Per Language" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jebsonubaldo&theme=midnight_purple" alt="Most Commit Language" />
+</p>
+
+### Productive Time & Contribution Stats:
+<p>
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jebsonubaldo&theme=midnight_purple&utcOffset=8" alt="Productive Time" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jebsonubaldo&theme=midnight_purple" alt="Stats" />
+</p>
+
+### Trophies:
+<img src="https://github-profile-trophy.vercel.app/?username=jebsonubaldo&theme=onedark&column=7&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophies" />
+
+### Contribution Activity:
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jebsonubaldo&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
